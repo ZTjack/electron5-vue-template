@@ -35,7 +35,7 @@
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "babel-loader": "^8.0.6",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "babili-webpack-plugin": "^0.1.2",
     "cfonts": "^2.4.3",
     "chalk": "^2.4.2",
